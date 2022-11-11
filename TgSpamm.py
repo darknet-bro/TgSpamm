@@ -63,7 +63,7 @@ os.system("termux-open-url https://t.me/darknet_off1cial")
 
 while True:
 	try:
-		santet = input("  •••boshlash : ")
+		bro = input("  •••boshlash : ")
 		
 		if santet == "01" or santet == "1":	
 			print(telegramspam_banner)
@@ -80,14 +80,14 @@ while True:
 				sys.stdout.flush()
 			print("\n[!] muvafaqiyatli amalga oshirildi ... !!\n")
 			backtomenu_option()
-		elif santet == "00" or santet == "0":
+		elif bro == "00" or bro == "0":
 			sys.exit()
-			print("Telegram: @termux_uz_private")
-		elif santet.lower() == "Script haqida":
+			print("Telegram: @darknet_off1cial")
+		elif bro.lower() == "Script haqida":
 			print("ushbu script orqali telegram guruhlarga har bir sozni 2000 marotabadan ham koproq yubora olasiz. bu script tuzuvchisi @darknet_off1cial telegram kanalimiz: @termux_uz_private.")
-		elif santet.lower() == "version":
+		elif bro.lower() == "version":
 			print("Version 1.1")
-		elif santet.lower() == "exit":
+		elif bro.lower() == "exit":
 			sys.exit()
 		else:
 			pass
